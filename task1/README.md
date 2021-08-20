@@ -1,5 +1,5 @@
 
-# LetsGrowMore::
+# LetsGrowMore:
 ## Web Development Virtual Internship Task 1:
 
 # Task : Create a Single Page Website
